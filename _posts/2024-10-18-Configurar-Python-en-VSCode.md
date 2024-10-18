@@ -12,7 +12,7 @@ Si hacemos click en la sección de **Extensiones** de la parte izquierda nos sald
 
 Sin embargo, una parte fundamental (y sin la cual nada de esto funcionaría) es tener el intérprete de **Python** descargado en nuestro PC. Para ello, iríamos al **"Software Center"** del punto 2 y descargaríamos la última versión disponible de **Python**. También es posible descargarlo desde la página oficial de Python.
 
-![Descripción de la imagen](./interprete-python.png)
+![Descripción de la imagen](./images/interprete-python.png)
 
 ### Intérprete
 Una vez instalado, tenemos que decirle a **VSCode** qué intérprete queremos. Para ello, hacemos click en la esquina inferior izquierda de la ventana de **VSCode** (en naranja en la imagen), y se nos desplegará una lista en la parte superior central. Haremos click en **"Enter interpreter path…"** y, seguidamente, introduciremos la ruta en la que está nuestro intérprete.
