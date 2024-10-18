@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configurar Python en VSCode
+title: "Configurar Python en VSCode"
 ---
 
 Es posible que sea tu primera vez usando **VSCode** así que tranquilo, configurarlo es un poco tedioso.
