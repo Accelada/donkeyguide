@@ -25,6 +25,7 @@ Instalar librerías debería ser tan sencillo como introducir este texto en **CMD*
 
 ```bash
 pip install nombre_de_la_libreria
+```
 
 Sin embargo, la vida no es de color de rosa. Es posible que no te funcione. Aquí van varias opciones para intentar solucionarlo:
 
