@@ -3,7 +3,7 @@ layout: post
 title: "Setting Up Python in VSCode"
 ---
 
-It might be your first time using **VSCode**, so don't worry; setting it up can be a bit tedious.
+It might be your first time using VSCode, so don't worry; setting it up can be a bit tedious.
 
 In this case, we want to use it for **Python** development, so we will need to adapt it for that purpose.
 
